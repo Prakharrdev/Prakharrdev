@@ -3,7 +3,7 @@
      ┌─ Stack ──────────────────────────────────────────────────┐
      │  Capsule Render · Readme Typing SVG · Skill Icons        │
      │  GitHub Stats · Streak Stats · CommitPulse 3D            │
-     │  Activity Graph · GitHub Actions · Shields.io            │
+     │  Activity Graph · Shields.io · Terminal Identity          │
      └──────────────────────────────────────────────────────────┘
      ============================================================ -->
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=35&lines=Backend+systems+that+don't+break+at+3AM+%F0%9F%8C%99;Full-stack+from+schema+design+to+deploy+%F0%9F%9A%80;3x+Hackathon+Winner+%E2%80%94+building+under+pressure+%F0%9F%8F%86;LeafLine+%E2%80%94+1st+Place+%40+Global+Hackfest+SAP+Labs+%F0%9F%A5%87;Python+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Postgres+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=Backend+systems+that+don't+break+at+3AM+%F0%9F%8C%99;Full-stack+from+schema+design+to+deploy+%F0%9F%9A%80;3x+Hackathon+Winner+%E2%80%94+building+under+pressure+%F0%9F%8F%86;LeafLine+%E2%80%94+1st+Place+%40+Global+Hackfest+SAP+Labs+%F0%9F%A5%87;Python+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Postgres+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/github/followers/Prakharrdev?style=flat-square&color=0f3460&logo=github&label=Followers" alt="Followers"/>
   &nbsp;&nbsp;
   <a href="https://prakhargupta.me">
-    <img src="https://img.shields.io/badge/prakhargupta.me-0f3460?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/prakhargupta.me-0f3460?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -42,37 +42,63 @@
 
 <br/>
 
-## `$ whoami`
+<!-- ╔══════════════════════════════════════════════════════╗
+     ║  TERMINAL IDENTITY — system info style card         ║
+     ╚══════════════════════════════════════════════════════╝ -->
 
-```python
-class PrakharGupta:
-    name       = "Prakhar Gupta"
-    handle     = "@prakharrdev"
-    location   = "Jaipur, Rajasthan 🇮🇳"
-    role       = ["Full Stack Engineer", "Backend Architect", "DevOps Tinkerer"]
-    hackathons = {"wins": 3, "mindset": "ship fast, iterate faster"}
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+</h2>
 
-    stack = {
-        "backend"  : ["Python", "FastAPI", "Node.js", "TypeScript"],
-        "frontend" : ["React", "Next.js", "TailwindCSS"],
-        "infra"    : ["Docker", "PostgreSQL", "Redis", "Nginx"],
-        "cloud"    : ["AWS", "Vercel", "Railway", "Supabase"],
-    }
+<br/>
 
-    currently  = "Building my portfolio & personal brand"
-    philosophy = "If it works in prod, it's not over-engineered."
+<table align="center">
+<tr>
+<td>
 
-    def contact(self):
-        return {
-            "portfolio": "https://prakhargupta.me",
-            "email"    : "Prakhar06.work@gmail.com",
-            "linkedin" : "/Prakharrdev",
-            "twitter"  : "@prakharbuildss",
-        }
-
-    def __repr__(self):
-        return f"<Engineer who writes code and ships it />"
 ```
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   prakhar@jaipur:~$ neofetch                                 │
+│                                                              │
+│   ██████╗ ██████╗  █████╗ ██╗  ██╗██╗  ██╗ █████╗ ██████╗   │
+│   ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██║  ██║██╔══██╗██╔══██╗  │
+│   ██████╔╝██████╔╝███████║█████╔╝ ███████║███████║██████╔╝  │
+│   ██╔═══╝ ██╔══██╗██╔══██║██╔═██╗ ██╔══██║██╔══██║██╔══██╗  │
+│   ██║     ██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║██║  ██║  │
+│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  │
+│                                                              │
+│   OS       → Builder Linux (Jaipur Edition) 🇮🇳              │
+│   Host     → Full Stack Engineer / Backend Architect         │
+│   Kernel   → 3x Hackathon Winner                             │
+│   Uptime   → Shipping code since Day 1                       │
+│   Shell    → Python · TypeScript · Docker · Postgres          │
+│   DE       → React · Next.js · TailwindCSS                   │
+│   WM       → FastAPI · Node.js · Redis · Nginx               │
+│   Cloud    → AWS · Vercel · Railway · Supabase                │
+│   Status   → Building my portfolio & personal brand          │
+│                                                              │
+│   📧 Prakhar06.work@gmail.com                                 │
+│   🌐 prakhargupta.me                                          │
+│   💼 linkedin.com/in/Prakharrdev                              │
+│   🐦 x.com/prakharbuildss                                     │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════╗
+     ║  CS QUOTES — wisdom from legends                    ║
+     ╚══════════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=16&pause=3000&color=94A3B8&center=true&vCenter=true&width=700&height=30&lines=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%94+John+Johnson;%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%94+Linus+Torvalds;%E2%80%9CSimplicity+is+the+soul+of+efficiency.%E2%80%9D+%E2%80%94+Austin+Freeman;%E2%80%9CPrograms+must+be+written+for+people+to+read.%E2%80%9D+%E2%80%94+Abelson+%26+Sussman;%E2%80%9CAny+fool+can+write+code+that+a+computer+can+understand.%E2%80%9D+%E2%80%94+Martin+Fowler;%E2%80%9CThe+best+error+message+is+the+one+that+never+shows+up.%E2%80%9D+%E2%80%94+Thomas+Fuchs" alt="CS Quotes" />
+</p>
 
 <br/>
 
@@ -225,18 +251,6 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakharrdev&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=0f3460&point=f97316&hide_border=true&area=true&area_color=0f3460" alt="Activity Graph"/>
-</p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🏅 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakharrdev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br/>
