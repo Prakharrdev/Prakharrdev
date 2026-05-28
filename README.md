@@ -62,35 +62,35 @@
 
 <br/>
 
-```js
-// prakhar@jaipur:~$ node about.js
+<table>
+<tr>
+<td width="60%" valign="top">
 
-const prakhar = {
-    pronouns: "he" | "him",
-    location: "Jaipur, Rajasthan 🇮🇳",
-    roles: ["Full Stack Engineer", "Backend Architect", "DevOps Tinkerer"],
-    hackathons: { wins: 3, best: "🥇 LeafLine @ SAP Labs Global Hackfest" },
+### 🚀 The Brief
+I am a Full Stack Engineer and Backend Architect based in **Jaipur, India** 🇮🇳. I specialize in designing and scaling backend infrastructures, writing clean APIs, and deploying production-grade systems.
 
-    code: ["Python", "TypeScript", "JavaScript", "Solidity"],
-    technologies: {
-        backEnd: ["FastAPI", "Node.js", "Express"],
-        frontEnd: ["React", "Next.js", "TailwindCSS"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "Nginx", "GitHub Actions"],
-        cloud: ["AWS", "Vercel", "Railway", "Supabase"],
-    },
+My approach to building software: **keep it robust, scalable, and automated**. 
 
-    currentFocus: "Building my portfolio & personal brand",
-    philosophy: "If it works in prod, it's not over-engineered.",
+*   **🥇 Hackathon Winner:** 1st place with **LeafLine** at the SAP Labs Global Hackfest.
+*   **⚙️ Core Focus:** Systems architecture, database optimization, and CI/CD automation.
+*   **💡 Motto:** *"If it works in prod, it's not over-engineered."*
 
-    contact: {
-        portfolio: "https://prakhargupta.me",
-        email: "Prakhar06.work@gmail.com",
-        linkedin: "/Prakharrdev",
-        twitter: "@prakharbuildss",
-    },
-};
+</td>
+<td width="40%" valign="top">
+
+### 🛠️ Quick Diagnostics
+```yaml
+OS: macOS / Linux
+Status: Active & building 🚀
+Wins: 3x Hackathon Champion
+Origin: Jaipur, Rajasthan
+Focus: Python, TypeScript, DevOps
+Brand: prakhargupta.me
 ```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -190,7 +190,7 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 <h4 align="center">🔧 Languages & Frameworks</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&v=2" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
@@ -236,13 +236,8 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 
 <br/>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prakharrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Prakharrdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=0f3460&fire=f97316&currStreakLabel=38bdf8&dates=94a3b8&sideNums=e2e8f0" alt="GitHub Streak"/>
