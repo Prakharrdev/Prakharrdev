@@ -38,12 +38,22 @@
 
 <br/>
 
+<!-- ╔══════════════════════════════════════════════════════╗
+     ║  TERMINAL IDENTITY CARD — live stats, no tokens     ║
+     ╚══════════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://terminal-identity-opal.vercel.app/api?name=Prakhar%20Gupta&username=Prakharrdev&bio=Building%20systems%20that%20ship%20%7C%203x%20Hackathon%20Winner%20%7C%20Jaipur%2C%20IN&theme=cobalt&shell=classic&langs=python,typescript,docker,postgres" width="95%" alt="terminal-identity-card"/>
+</p>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════╗
-     ║  TERMINAL IDENTITY — system info style card         ║
+     ║  ABOUT ME — neofetch-style terminal card            ║
      ╚══════════════════════════════════════════════════════╝ -->
 
 <h2 align="center">
@@ -52,43 +62,47 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td>
+```js
+// prakhar@jaipur:~$ node about.js
 
-```
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   prakhar@jaipur:~$ neofetch                                 │
-│                                                              │
-│   ██████╗ ██████╗  █████╗ ██╗  ██╗██╗  ██╗ █████╗ ██████╗   │
-│   ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██║  ██║██╔══██╗██╔══██╗  │
-│   ██████╔╝██████╔╝███████║█████╔╝ ███████║███████║██████╔╝  │
-│   ██╔═══╝ ██╔══██╗██╔══██║██╔═██╗ ██╔══██║██╔══██║██╔══██╗  │
-│   ██║     ██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║██║  ██║  │
-│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  │
-│                                                              │
-│   OS       → Builder Linux (Jaipur Edition) 🇮🇳              │
-│   Host     → Full Stack Engineer / Backend Architect         │
-│   Kernel   → 3x Hackathon Winner                             │
-│   Uptime   → Shipping code since Day 1                       │
-│   Shell    → Python · TypeScript · Docker · Postgres          │
-│   DE       → React · Next.js · TailwindCSS                   │
-│   WM       → FastAPI · Node.js · Redis · Nginx               │
-│   Cloud    → AWS · Vercel · Railway · Supabase                │
-│   Status   → Building my portfolio & personal brand          │
-│                                                              │
-│   📧 Prakhar06.work@gmail.com                                 │
-│   🌐 prakhargupta.me                                          │
-│   💼 linkedin.com/in/Prakharrdev                              │
-│   🐦 x.com/prakharbuildss                                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+const prakhar = {
+    pronouns: "he" | "him",
+    location: "Jaipur, Rajasthan 🇮🇳",
+    roles: ["Full Stack Engineer", "Backend Architect", "DevOps Tinkerer"],
+    hackathons: { wins: 3, best: "🥇 LeafLine @ SAP Labs Global Hackfest" },
+
+    code: ["Python", "TypeScript", "JavaScript", "Solidity"],
+    technologies: {
+        backEnd: ["FastAPI", "Node.js", "Express"],
+        frontEnd: ["React", "Next.js", "TailwindCSS"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"],
+        devOps: ["Docker", "Nginx", "GitHub Actions"],
+        cloud: ["AWS", "Vercel", "Railway", "Supabase"],
+    },
+
+    currentFocus: "Building my portfolio & personal brand",
+    philosophy: "If it works in prod, it's not over-engineered.",
+
+    contact: {
+        portfolio: "https://prakhargupta.me",
+        email: "Prakhar06.work@gmail.com",
+        linkedin: "/Prakharrdev",
+        twitter: "@prakharbuildss",
+    },
+};
 ```
 
-</td>
-</tr>
-</table>
+<br/>
+
+<p align="center">
+  <a href="https://prakhargupta.me"><img src="https://img.shields.io/badge/🌐_Portfolio-prakhargupta.me-0f3460?style=for-the-badge" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/Prakharrdev"><img src="https://img.shields.io/badge/💼_LinkedIn-Prakharrdev-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://x.com/prakharbuildss"><img src="https://img.shields.io/badge/🐦_Twitter-@prakharbuildss-000000?style=for-the-badge" alt="Twitter"/></a>
+  &nbsp;
+  <a href="mailto:Prakhar06.work@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Prakhar06.work-EA4335?style=for-the-badge" alt="Email"/></a>
+</p>
 
 <br/>
 
@@ -173,37 +187,42 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 
 ## ⚙️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<h4 align="center">🔧 Languages & Frameworks</h4>
 
-#### 🔧 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+</p>
 
-</td>
-<td valign="top" width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+</p>
 
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<h4 align="center">🛠️ Infrastructure & DevOps</h4>
 
-</td>
-<td valign="top" width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+</p>
 
-#### ☁️ Infra & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-</td>
-</tr>
-</table>
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
