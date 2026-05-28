@@ -2,8 +2,8 @@
      PRAKHARR DEV — GitHub Profile README
      ┌─ Stack ──────────────────────────────────────────────────┐
      │  Capsule Render · Readme Typing SVG · Skill Icons        │
-     │  GitHub Stats · Streak Stats · lowlighter/metrics        │
-     │  Terminal Identity · Activity Graph · GitHub Actions      │
+     │  GitHub Stats · Streak Stats · CommitPulse 3D            │
+     │  Activity Graph · GitHub Actions · Shields.io            │
      └──────────────────────────────────────────────────────────┘
      ============================================================ -->
 
@@ -16,26 +16,31 @@
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════╗
-     ║  TERMINAL IDENTITY CARD — live stats, no tokens     ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-<p align="center">
-  <img src="https://terminal-identity-opal.vercel.app/api?name=Prakhar%20Gupta&username=Prakharrdev&bio=Building%20systems%20that%20ship%20%7C%203x%20Hackathon%20Winner%20%7C%20Jaipur%2C%20IN&theme=obsidian/cobalt&shell=classic&langs=python,typescript,docker,postgres" width="95%" alt="terminal-identity-card"/>
-</p>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════╗
      ║  TYPING SVG — rotating taglines                     ║
      ╚══════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+systems+that+don't+break+at+3AM+%F0%9F%8C%99;Full-stack+from+schema+design+to+deploy+%F0%9F%9A%80;3x+Hackathon+Winner+%E2%80%94+building+under+pressure+%F0%9F%8F%86;LeafLine+%E2%80%94+1st+Place+%40+Global+Hackfest+SAP+Labs+%F0%9F%A5%87;Python+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Postgres" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=35&lines=Backend+systems+that+don't+break+at+3AM+%F0%9F%8C%99;Full-stack+from+schema+design+to+deploy+%F0%9F%9A%80;3x+Hackathon+Winner+%E2%80%94+building+under+pressure+%F0%9F%8F%86;LeafLine+%E2%80%94+1st+Place+%40+Global+Hackfest+SAP+Labs+%F0%9F%A5%87;Python+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Postgres+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Quick-glance badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prakharrdev&style=flat-square&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Prakharrdev?style=flat-square&color=0f3460&logo=github&label=Followers" alt="Followers"/>
+  &nbsp;&nbsp;
+  <a href="https://prakhargupta.me">
+    <img src="https://img.shields.io/badge/prakhargupta.me-0f3460?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## `$ whoami`
 
@@ -71,7 +76,9 @@ class PrakharGupta:
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 🏆 Wins & Work
 
@@ -134,30 +141,62 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## ⚙️ Tech Stack
 
-<!-- skill-icons — bubble-shaped, theme-aware, CDN-fast -->
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### 🔧 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+#### ☁️ Infra & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nodejs,react,nextjs,postgres,docker,redis,nginx,linux,git,github,vscode,aws,tailwind&theme=dark&perline=8" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nodejs,react,nextjs,postgres,docker,redis,nginx,linux,git,github,vscode,aws,tailwind,mongodb,supabase&theme=dark&perline=9" alt="Tech Stack Icons"/>
   </a>
 </p>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<!-- Three-column stats layout -->
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Prakharrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Prakharrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prakharrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -166,7 +205,9 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 🏙️ 3D Contribution Monolith
 
@@ -178,79 +219,60 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 
 <br/>
 
----
-
 ## 🗺️ Contribution Landscape
 
-<!-- Activity Graph (last 31 days heatmap) -->
+<!-- Activity Graph (last 31 days) -->
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakharrdev&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=0f3460&point=f97316&hide_border=true" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prakharrdev&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=0f3460&point=f97316&hide_border=true&area=true&area_color=0f3460" alt="Activity Graph"/>
 </p>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤖 AI Engineering Snapshot
+<br/>
 
-<!-- lowlighter/metrics auto-committed SVG — generated by GitHub Actions -->
-<!-- See .github/workflows/metrics.yml for the workflow YAML -->
+## 🏅 Achievements
 
 <p align="center">
-  <img src="./metrics.svg" alt="Metrics" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Prakharrdev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br/>
 
----
-
-## 📡 Live Signal
-
-<!-- Profile views counter + GitHub trophies -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prakharrdev&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Prakharrdev?style=for-the-badge&color=0f3460&logo=github&label=FOLLOWERS" alt="Followers"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakharrdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
----
-
-## 🌐 Find Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/Prakharrdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://x.com/prakharbuildss">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+    <img src="https://img.shields.io/badge/@prakharbuildss-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
   </a>
   &nbsp;
   <a href="mailto:Prakhar06.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Prakhar06.work-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://prakhargupta.me">
-    <img src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/prakhargupta.me-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════╗
-     ║  FOOTER — Capsule Render (slice wave, reversed)     ║
+     ║  FOOTER — Capsule Render (wave, reversed gradient)  ║
      ╚══════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=120&section=footer&text=&animation=fadeIn" alt="footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=120&section=footer&animation=fadeIn" alt="footer"/>
 </p>
 
 <p align="center">
