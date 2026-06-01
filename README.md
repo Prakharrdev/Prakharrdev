@@ -240,7 +240,7 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 ## 📊 GitHub Streak
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Prakharrdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=0f3460&fire=f97316&currStreakLabel=38bdf8&dates=94a3b8&sideNums=e2e8f0" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Prakharrdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=0f3460&fire=f97316&currStreakLabel=38bdf8&dates=94a3b8&sideNums=e2e8f0&v=1" alt="GitHub Streak"/>
 </p>
 
 <br/>
