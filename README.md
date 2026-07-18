@@ -236,6 +236,15 @@ A decentralized ledger application ensuring transparency and end-to-end audit tr
 
 <br/>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Prakharrdev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+</p>
+
+<br/>
 
 ## 📊 GitHub Streak
 
