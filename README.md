@@ -85,6 +85,7 @@ Status: Active & building 🚀
 Wins: 3x Hackathon Champion
 Origin: Jaipur, Rajasthan
 Focus: Python, TypeScript, DevOps
+Freelance: Open for work 🚀
 Brand: prakhargupta.me
 ```
 
