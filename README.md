@@ -85,7 +85,6 @@ Status: Active & building 🚀
 Wins: 3x Hackathon Champion
 Origin: Jaipur, Rajasthan
 Focus: Python, TypeScript, DevOps
-Freelance: Open for work 🚀
 Brand: prakhargupta.me
 ```
 
@@ -155,30 +154,60 @@ A grievance redressal system connecting citizens to local government — built w
 <tr>
 <td width="50%" valign="top">
 
-### 🎖️ Vihaan
-**Vihaan Hackathon (IEEE DTU) · Finalist**
+### 🚂 railmind
+**Railway Conflict Resolution Engine · Research Prototype**
 
-A smart platform built in 24 hours to tackle civic engagement and coordinate community resources dynamically.
+An intelligent decision-support system for Indian Railways using beam search optimization — reduces delays by ~10% over FCFS baselines on the Delhi-Kanpur corridor.
 
-`React` `Next.js` `TypeScript` `Supabase`
+`Python` `FastAPI` `React` `NetworkX`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakharrdev/vihaan)
+[![Repo](https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakharrdev/railmind)
+[![Live](https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://railmind-nu.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎖️ AidWatch Chain
-**Blockchain Hackfest · Finalist**
+### 🏛️ Samadhaan-setu
+**Smart India Hackathon 2025 · Civic Tech Platform**
 
-A decentralized ledger application ensuring transparency and end-to-end audit trails for humanitarian aid distribution.
+A civic issue reporting platform bridging citizens and authorities — DIGIPIN location encoding, AI-powered routing, and real-time resolution tracking.
 
-`React` `TypeScript` `Solidity` `Supabase`
+`React` `TypeScript` `Supabase` `Tailwind`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakharrdev/aidwatch-chain)
+[![Repo](https://img.shields.io/badge/View_Repo-0f3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakharrdev/Samadhaan-setu)
+[![Live](https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://samadhaan-setu.vercel.app)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 💼 Freelance & Contract Work
+
+<p align="center">
+  I build production-grade systems for clients — backend architecture, full-stack applications, APIs, and DevOps automation. Available for freelance and contract opportunities.
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:Prakhar06.work@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Hire_Me-Prakhar06.work-EA4335?style=for-the-badge" alt="Hire Me"/>
+  </a>
+  &nbsp;
+  <a href="https://prakhargupta.me">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-prakhargupta.me-0f3460?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/Prakharrdev">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Prakharrdev-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+</p>
 
 <br/>
 
