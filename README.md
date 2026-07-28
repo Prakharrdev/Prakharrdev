@@ -343,5 +343,5 @@ A civic issue reporting platform bridging citizens and authorities — DIGIPIN l
 </p>
 
 <p align="center">
-  <sub>⚡ Auto-updated daily via GitHub Actions · Built with intent, not templates</sub>
+  <sub>⚡ Auto-updated daily via GitHub Actions · Built with intent, not templates</sub> 
 </p>
